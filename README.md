@@ -6,8 +6,9 @@ I am an engineering graduate from the University of Waterloo with interests in m
 
 Clinical Clarity
 
-- 🌱 I’m currently learning ...
-- 💬 Ask me about ...
+- 🌱 I’m currently learning:
+LLM Applications, AI Agents
+
 - 📫 How to reach me: 
 
 matthew.erxleben@uwaterloo.ca
