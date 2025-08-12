@@ -11,7 +11,6 @@ LLM Applications, AI Agents
 
 #### 📫 How to reach me: 
 
-matthew.erxleben@uwaterloo.ca
-matthew.erxleben@gmail.com
-
-LinkedIn: https://www.linkedin.com/in/matthew-erxleben/
+- matthew.erxleben@uwaterloo.ca
+- matthew.erxleben@gmail.com
+- LinkedIn: https://www.linkedin.com/in/matthew-erxleben/
