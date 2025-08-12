@@ -1,11 +1,11 @@
-## Hi there 👋
+## Hi there 👋, I'm Matthew Erxleben
 
-<!--
-**matterxleben/matterxleben** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an engineering graduate from the University of Waterloo with interests in machine learning, software engineering, and data science.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on:
 
-- 🔭 I’m currently working on ...
+Clinical Clarity
+
 - 🌱 I’m currently learning ...
 - 💬 Ask me about ...
 - 📫 How to reach me: 
