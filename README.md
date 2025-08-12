@@ -4,7 +4,7 @@ I am an engineering graduate from the University of Waterloo with interests in m
 
 #### 🔭 I’m currently working on:
 
-Clinical Clarity
+- Clinical Clarity, UWaterloo Engineering Capstone Project
 
 #### 🌱 I’m currently learning:
 LLM Applications, AI Agents
